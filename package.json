@@ -1,0 +1,15 @@
+{
+  "name": "sv-checker",
+  "version": "1.0.0",
+  "description": "#Check austrian SV numbers if there are real",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "austria",
+    "sv"
+  ],
+  "author": "JPromi",
+  "license": "ISC"
+}
